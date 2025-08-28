@@ -1,7 +1,5 @@
 # cn-duanchamdiemrenluyensinhvien-laogicungton-django
 
-## 📋 Hướng dẫn Đánh giá Code Tự động cho Sinh viên
-
 ### 🎯 Mục tiêu
 Repository này đã được thiết lập để tự động đánh giá chất lượng code thông qua GitHub Actions và SonarCloud khi bạn push code lên nhánh **master**.
 
